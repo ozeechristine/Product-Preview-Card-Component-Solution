@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/ozeechristine/Product-Preview-Card-Component-Solution)
 - Live Site URL: (https://ozeechristine.github.io/Product-Preview-Card-Component-Solution/)
 
 
